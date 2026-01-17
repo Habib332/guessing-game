@@ -1,0 +1,1 @@
+So to learn JavaScript basics I made a number guessing game where each time the game is started the number is randomly generated 1-100 and the user enters the number and each time there is a hint if the number entered is too high or too low. Check for yourself too:D 
